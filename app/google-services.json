@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775012536235",
+    "project_id": "video-calling-app-kotlin",
+    "storage_bucket": "video-calling-app-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775012536235:android:344ff272c61aae50edccee",
+        "android_client_info": {
+          "package_name": "com.example.videocallingappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775012536235-h17abtkis83jqldpd326uh6kv2j9hhr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZG-czXcDDW25JkVX-WLz_pT_O3E62wXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775012536235-h17abtkis83jqldpd326uh6kv2j9hhr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
